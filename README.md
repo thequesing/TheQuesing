@@ -1,6 +1,14 @@
 # TheQuesing
 
 
+- 💻 Experience in HTML, CSS, JavaScript
+
+- 💻 Learning Python,PHP
+
+- 📩 My Discord TheQuesing#8790
+
+
+# Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=thequesing&show_icons=true&theme=tokyonight)
 
