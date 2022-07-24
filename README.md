@@ -3,7 +3,7 @@
 # TheQuesing
 
 
-- 💻 Experience in HTML, CSS, JavaScript
+- 💻 Experience in HTML5, CSS3, JavaScript
 
 - 💻 Learning Python,PHP
 
