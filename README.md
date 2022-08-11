@@ -15,3 +15,6 @@
 
 https://thequesing.ga [Maintenance]
 
+###Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/949655344316043304)](https://discord.com/users/949655344316043304)
+
