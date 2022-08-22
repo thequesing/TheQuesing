@@ -1,7 +1,7 @@
 ## Hello, I'm TheQuesing 👋
 
 - Cuerently I'm Experienced In HTML5, CSS3 and JavaScript I'm Learning PHP,Python and TypeScript
-- I am a Developer at Antares Network and Alystrale Network
+- I am a Developer at Cronos Network and Antares Network
 - Contact me on Discord TheQuesing#8790
 
 ### Stats
