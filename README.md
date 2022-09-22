@@ -1,10 +1,16 @@
-## Hello, I'm TheQuesing 👋
+<h1>Hello, I'm TheQuesing 👋</h1>
 
-- Cuerently I'm Experienced In HTML5, CSS3 and JavaScript I'm Learning Python,TypeScript and ReactJS
 - I am a Developer at RealmBot and Antares Network
 - Contact me on Discord TheQuesing#8790
 
-### Stats
+<h1 align="center">Skills</h1>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python" />
+  </a>
+</p>
+
+<h1 align="center">Stats</h1>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=thequesing&show_icons=true&theme=tokyonight)
 
