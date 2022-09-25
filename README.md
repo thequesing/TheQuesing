@@ -5,7 +5,7 @@
 
 <h1 align="center">Skills</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,azure,aws,discord,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,discord,vscode,github" />
   </a>
 </p>
 
