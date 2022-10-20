@@ -1,6 +1,6 @@
 <h1>Hello, I'm TheQuesing 👋</h1>
 
-- I am a Developer at RealmBot and Antares Network
+- I am a Developer at Antares Network
 - Contact me on Discord TheQuesing#8790
 
 <h1 align="center">Skills</h1>
