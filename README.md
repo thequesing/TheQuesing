@@ -1,6 +1,6 @@
 <h1>Hello, I'm TheQuesing 👋</h1>
 
-- I am a Developer at Superlands Network.
+- I am a Developer at SuperLands Network.
 - Contact me on Discord TheQuesing#8790
 
 <h1 align="center">Skills</h1>
