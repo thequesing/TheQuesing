@@ -3,17 +3,12 @@
 - I am a Developer at SuperLands Network.
 - Contact me on Discord TheQuesing#8790
 
-<h1 align="center">Skills</h1>
+## Skills
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,python,discord,vscode,github" />
   </a>
 </p>
 
-<h1 align="center">Stats</h1>
+## Profile
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thequesing&show_icons=true&theme=tokyonight)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thequesing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/949655344316043304)](https://discord.com/users/949655344316043304)
