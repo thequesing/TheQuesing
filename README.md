@@ -1,9 +1,10 @@
 <h1>Hello, I'm TheQuesing 👋</h1>
 
-<h3>I am a Full Stack developer with 2 years of experience</h3>
+<h5>I am a Full Stack developer with 2 years of experience</h5>
 
 - I am a Developer at SuperLands Network.
 - Contact me on Discord TheQuesing#8790
+- Learning java 
 
 ### 
 
