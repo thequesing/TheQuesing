@@ -4,7 +4,7 @@
 
 - I am a Developer at SuperLands Network.
 - Contact me on Discord TheQuesing#8790
-- Learning java 
+- Learning Vite & NextJS
 
 ### 
 
