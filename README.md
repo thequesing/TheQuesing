@@ -22,6 +22,3 @@ I am a backend developer with more than 3 years of experience, who has participa
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### Projects
-
-![HELLPVP](https://img.shields.io/badge/HELLPVP%20-%20WEB%20DEVELOPER-0000FF?style=for-the-badge)
