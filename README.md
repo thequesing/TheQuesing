@@ -1,7 +1,7 @@
 ![proftop-optimized](https://initiate.alphacoders.com/images/121/cropped-851-315-1218911.jpg?13)
 
 ## Hello! I'm TheQuesing 
-I am a backend developer with more than 3 years of experience, who has participated in more than 30 countless projects.
+I am a fullstack developer with more than 3 years of experience, who has participated in more than 30 countless projects.
 
 ## My Skills & Projects
 
