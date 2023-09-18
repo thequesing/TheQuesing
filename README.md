@@ -3,8 +3,6 @@
 ## Hello! I'm TheQuesing 
 I am a fullstack developer with more than 3 years of experience, who has participated in more than 30 countless projects.
 
-## My Skills & Projects
-
 ### Skills
 ![Html5](https://img.shields.io/badge/html5-orange.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/css3-%23007ACC.svg?style=for-the-badge&logo=css3&logoColor=white)
