@@ -3,6 +3,8 @@
 ## Hello! I'm TheQuesing 
 I am a fullstack developer with more than 3 years of experience, who has participated in more than 30 countless projects.
 
+## Skills & Projects
+
 ### Skills
 ![Html5](https://img.shields.io/badge/html5-orange.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/css3-%23007ACC.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,4 +21,8 @@ I am a fullstack developer with more than 3 years of experience, who has partici
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### Projects
+
+![Nesix Studios](https://img.shields.io/badge/Web_Developer-Nesix_Studios-blue)
 
