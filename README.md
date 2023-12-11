@@ -22,7 +22,7 @@ I am a fullstack developer with more than 3 years of experience, who has partici
 
 ### Projects
 
-![Nesix Studios](https://img.shields.io/badge/Web_Developer-Nesix_Studios-blue)
+![Nesix Studios](https://img.shields.io/badge/Web_Developer-Nesix_Studios-blue?style=for-the-badge)
 
-![IXLAND](https://img.shields.io/badge/Developer-IXLAND-yellow)
+![IXLAND](https://img.shields.io/badge/Developer-IXLAND-yellow?style=for-the-badge)
 
